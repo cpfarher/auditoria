@@ -36,8 +36,12 @@ all : pdflatex
 pdflatex : $(fuente).tex $(dep)
 	$(ccpdf) $(fuente).tex
 	mv $(fuente).pdf $(out).pdf
-	rm $(fuente).aux $(aux)
-	rm $(fuente).log
+
+# pdflatex : $(fuente).tex $(dep)
+# 	$(ccpdf) $(fuente).tex
+# 	mv $(fuente).pdf $(out).pdf
+# 	rm $(fuente).aux $(aux)
+# 	rm $(fuente).log
 
 # bibtex : dvi
 # 	$(bib) $(fuente)
