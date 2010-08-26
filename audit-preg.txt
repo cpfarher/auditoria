@@ -1,0 +1,90 @@
+;; This buffer is for notes you don't want to save, and for Lisp evaluation.
+;; If you want to create a file, visit that file with C-x C-f,
+;; then enter the text in that file's own buffer.
+
+recursos humanos:
+
+1 -que requisitos son necesarios para cubrir los puestos  de trabajo y cuales tiene el personal?
+son adecuados?
+
+2- como se realiza la divisiòn de las tareas?
+
+estrategias informaticas:
+
+1- modificaciones sobre sitio web, sistemas que utuiilize, cambio de equipos,
+actualizaciones, nuevas estructuras físicas del edificio, lugar de trabajo, 
+refrigeracion, etc etc etc
+
+
+hardware:
+
+1- con que hard cuenta la salita? especificar caracteristicas de cada una,
+micro, memoria, UPC, etc, etc
+
+software:
+
+1- tiene desarrollo propio o todo es tercerizado?
+
+2- sistema operativo? licencias?
+
+sistma de telecomunicaciones:
+
+1- que tipo de acceso a internet tiene? quien lo provee? caracteristicas: velocidad,medio...
+
+2- esquema de red y una breve explicacion del funcionamiento.
+
+
+3- existe alguna capacitacion para el personal? disponene de material para autocapacitacion?
+
+
+4 - que tipo de cifrado se realiza para la wi-fi y red en general.?
+
+5-  existe una discriminacion para diferentes usuarios de la wifi -red en generla?
+
+6- hay acceso fisico restringido a la sala? quienes pueden entrar?
+
+se registra hora de ingreso y egreso de empleados?
+
+existen manuales de procedimientos para las tareas diarias o rutinarias?
+
+hay normativas para el uso de los recursos?
+
+planes de contingencia ante siniestros?
+
+existe algun sistema de alarma , para acceso o incendios?
+
+hay detectores de fuego, humo? matafuegos disponibles?
+
+existe señalizaciones para casos de incendios, planes de evacuacion?
+
+el cableado esta porolijo? resguardado? o colgando de las paredes :)
+
+hay algun tipo de documentacion de los procesos,tareas que se realizan 
+o queda en la cabeza de cada uno?
+
+el acceso fisico a la salita posee rejas?, la puerta es segura?, como es la disposicion?
+
+en picos de tensión o cortes de luz, cuales son los equipos protegidos? la salita, los laboratorios tb?
+
+los backups se guardan en algun lugar fuera dle edificio de quimica ? quienes tienen acceso a los mismoS?
+
+hay un responsable directo de las copias y realizacion de backups?
+
+
+
+7 - la refrigeracion del lugar tiene redundancia?
+
+8 - hay equipos UPS y estabilizadores?
+
+9- se realiza un chequeo de los buckups (recuperacion)
+
+10- medidas de contencion de incendios?
+
+11- el cableado cumple con algun tipo de normativa?
+
+12- hay contratos de confidencialidad con el personal
+
+13- hay auditoria interna?
+
+14 la disposicion de equipos es adecuada?
+
